@@ -18,5 +18,5 @@ API de lista de tarefas, com autenticação de usuários e criptografia de senha
 </section>
 <section>
 <section>
-  <h2>Instalação<h2>
-  <p>Para execução será necessário a instalação do <a href="https://trello.com/b/F29mzCmW/fatia-de-bolo">PostGreSQL</a>
+  <h2>Instalação</h2>
+  <p>Para execução será necessário a instalação do <a href="https://www.postgresql.org/">PostGreSQL</a> e <a href="https://nodejs.org/en/">Nodejs</a> em sua máquina
