@@ -23,10 +23,10 @@ API de lista de tarefas, com autenticação de usuários e criptografia de senha
   <p>Observação! caso estiver utilizando linux siga meu tutorial <a href="https://github.com/EmersonBarcelos/Instalacao_postgresql_pgadmin">aqui</a> para instalação do PostGreSQL.</p>
   <p>Feito isso é só dar o seguinte comando para instalação dos pacotes:</a>
   <pre>
-   <span>yarn install</span>
+   <span style="font-weight: 400">yarn install</span>
   </pre>
   <p>Execuntando:</p>
   <pre>
-   <span>yarn dev</span>
+   <span style="font-weight: 400">yarn dev</span>
   </pre>
     
