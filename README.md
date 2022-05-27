@@ -25,5 +25,8 @@ API de lista de tarefas, com autenticação de usuários e criptografia de senha
   <pre>
    <span>yarn install</span>
   </pre>
-  
+  <p>Execuntando</p>
+  <pre>
+   <span>yarn dev</span>
+  </pre>
     
