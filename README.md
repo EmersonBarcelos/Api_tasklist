@@ -11,6 +11,9 @@ API de lista de tarefas, com autenticação de usuários e criptografia de senha
     <li>pg-hstore</li>
     <li>sequelize</li>
     <li>yup</li>
+    <li>sucrase</li>
+    <li>prettier</li>
+    <li>eslint</li>
   </ul>
 </section>
 <section>
