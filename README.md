@@ -1,8 +1,8 @@
 # Sobre
 API de lista de tarefas, com autenticação de usuários e criptografia de senhas, junto com conexão a um banco de dados PostGreSQL
 
+<section>
 <h2>Tecnologias</h2>
- 
   <li>
     <ul>bcrypt</ul>
     <ul>cors</ul>
@@ -11,4 +11,4 @@ API de lista de tarefas, com autenticação de usuários e criptografia de senha
     <ul>pg-hstore</ul>
     <ul>sequelize</ul>
     <ul>yup</ul>
-  </li>
+</section>
